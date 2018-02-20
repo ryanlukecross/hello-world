@@ -1,4 +1,2 @@
 # hello-world
-A quick learning experience.
-
-This is my first time using GitHub, and it seems pretty simple to use. Now lets see what else it can do.
+That last thing wasn't supposed to happen. I should probably submit a pull request before changing the master version of what I am doing.
