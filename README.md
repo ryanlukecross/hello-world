@@ -1,4 +1,4 @@
 # hello-world
 A quick learning experience.
 
-This is my first time using GitHub, and it seems pretty simple to use. Now lets see what else it can do.
+By getting rid of that last line, I should have some red and some green when I review the pull request, right?
